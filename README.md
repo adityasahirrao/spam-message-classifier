@@ -7,7 +7,7 @@ A **machine learning-based SMS spam detection system** using **Natural Language 
 - 📝 **Preprocesses SMS messages** with **tokenization, stopword removal, stemming, and TF-IDF vectorization**.  
 - 🏆 **Trains multiple classifiers**:  
   - ✅ **Logistic Regression**  
-  - ✅ **Naïve Bayes** (Best Accuracy: **>95%**)  
+  - ✅ **Naïve Bayes**
   - ✅ **Random Forest**  
   - ✅ **Support Vector Machine (SVM)**  
 - 📊 **Evaluates model performance** using accuracy, precision, recall, and F1-score.  
